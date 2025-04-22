@@ -59,6 +59,31 @@ Résultat:
 
 ![Structure](./test-unitaire-débutant/images/result-test1.png)
 
+## Modification du code pour générer une erreur
+
+### Ici, j'ai modifié la ligne 5 ( 5 au lieu de 5,5)
+
+![Structure](./test-unitaire-débutant/images/Modif-code.png)
+
+### Résultat qui affiche bien une erreur
+
+![Structure](./test-unitaire-débutant/images/erreur.png)
+
+### Correction de l'erreur comme indiquée dans l'erreur
+
+![Structure](./test-unitaire-débutant/images/result2.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Apprentissage
