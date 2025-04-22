@@ -71,6 +71,10 @@ Résultat:
 
 ### Correction de l'erreur comme indiquée dans l'erreur
 
+![Structure](./test-unitaire-débutant/images/erreur.png)
+
+### Résultat
+
 ![Structure](./test-unitaire-débutant/images/result2.png)
 
 
