@@ -1,0 +1,28 @@
+{
+  "name": "test-unitaire-d-butant",
+  "version": "1.0.0",
+  "description": "Tests unitaires",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaFernandezFromMarseille/test-unitaire-d-butant.git"
+  },
+  "keywords": [
+    "test",
+    "unitaire",
+    "javascript",
+    "jest"
+  ],
+  "author": "MarinaFernandezFromMarseille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaFernandezFromMarseille/test-unitaire-d-butant/issues"
+  },
+  "homepage": "https://github.com/MarinaFernandezFromMarseille/test-unitaire-d-butant#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
